@@ -1,5 +1,6 @@
 {%
 /* date = mois avec 31jr | mois avec 30jrs | février */
+/*commentaire de test*/
 %}
 
 reference ([a-zA-Z]{1,3}[0-9]{1,6})
